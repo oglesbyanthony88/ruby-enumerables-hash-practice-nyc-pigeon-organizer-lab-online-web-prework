@@ -1,3 +1,4 @@
+=begin
 def nyc_pigeon_organizer(data)
   new = {}
   data.each do |key, value|
@@ -19,3 +20,6 @@ def nyc_pigeon_organizer(data)
   end
   new
 end
+=end
+
+
